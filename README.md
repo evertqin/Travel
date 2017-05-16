@@ -118,4 +118,4 @@ notebook: Italy
 
 ## Considerations
 
-1. Bring pants because lots for cathedrals have dress code (No shorts)
+1. Bring pants because lots of cathedrals have dress code (No shorts)
