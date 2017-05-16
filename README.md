@@ -76,12 +76,12 @@ notebook: Italy
 
 ### Day One [General Direction](https://maps.app.goo.gl/?link=https://www.google.com/maps/dir/Piazzale%2BMichelangelo,%2B50125%2BFirenze,%2BItaly/Basilica%2Bof%2BSanta%2BCroce,%2BPiazza%2Bdi%2BSanta%2BCroce,%2BFlorence,%2BMetropolitan%2BCity%2Bof%2BFlorence,%2BItaly/Galleria%2BDegli%2BUffizi,%2BFlorence,%2BMetropolitan%2BCity%2Bof%2BFlorence,%2BItaly/Piazza%2Bdel%2BDuomo,%2BFirenze,%2BItaly/Basilica%2Bdi%2BSan%2BLorenzo,%2BPiazza%2Bdi%2BSan%2BLorenzo,%2B9,%2B50123%2BFirenze,%2BItaly/Pitti%2BPalace,%2BPiazza%2Bde%27%2BPitti,%2B1,%2B50125%2BFirenze,%2BItaly/@43.7684374,11.2482147,15z/data%3D!4m38!4m37!1m5!1m1!1s0x132a53f743663843:0xb4f768e1820d5119!2m2!1d11.2650561!2d43.7629314!1m5!1m1!1s0x132a540723ccc331:0x8f8279649c131255!2m2!1d11.2622677!2d43.7685683!1m5!1m1!1s0x132a5400bfbab085:0x1549ca26e93fe495!2m2!1d11.2566778!2d43.7685896!1m5!1m1!1s0x132a5403c21b33ed:0x26185936f22c8e1a!2m2!1d11.255985!2d43.7734602!1m5!1m1!1s0x132a5402f87d976b:0xeda7c032191812ec!2m2!1d11.2538762!2d43.7749619!1m5!1m1!1s0x132a515441db99f1:0x5cd0cce4e6f1502a!2m2!1d11.2500081!2d43.7651533!3e2?utm_source%3Dapp-invite%26mt%3D8%26pt%3D9008%26utm_medium%3DSIMPLE%26utm_campaign%3Ds2e-ai%26ct%3Ds2e-ai&apn=com.google.android.apps.maps&amv=703000000&isi=585027354&ibi=com.google.Maps&ius=comgooglemapsurl&utm_source=app-invite&mt=8&pt=9008&utm_medium=SIMPLE&utm_campaign=s2e-ai&ct=s2e-ai&invitation_id=493454522602-bf583533-068e-4daa-ba37-00ee6b172da8)
 
-2. Piazzale Michelangelo (Piazzale Michelangelo, 50125 Firenze, Italy)
-3. Church of Santa Croce (Basilica of Santa Croce in Florence, Piazza di Santa Croce, 16, 50122 Firenze, Italy)
-1. 乌菲齐美术馆 (Galleria degli Uffizi, Galleria Degli Uffizi, 50122 Firenze, Italy)
+1. Piazzale Michelangelo (Piazzale Michelangelo, 50125 Firenze, Italy)
+2. Church of Santa Croce (Basilica of Santa Croce in Florence, Piazza di Santa Croce, 16, 50122 Firenze, Italy)
+3. 乌菲齐美术馆 (Galleria degli Uffizi, Galleria Degli Uffizi, 50122 Firenze, Italy)
 	+ 原美第奇家族的办公厅，达芬奇、拉斐尔、米开朗基罗当年都在这进进出出。这是世界级大名馆，太有名了，文艺复兴大画家在这里都以专场形式展出。其中第8展室是利皮专场，第10—14室是波提切利专场，《春》和《维纳斯的诞生》都在里面。第66室是拉斐尔专区，除了在乌菲齐，全世界你再也看不到一满屋的拉斐尔了。
-1. Piazza Duomo (Florence Cathedral)
-2. Church of San Lorenzo (Basilica di San Lorenzo, Piazza di San Lorenzo, 9, 50123 Firenze, Italy)
+4. Piazza Duomo (Florence Cathedral)
+5. Church of San Lorenzo (Basilica di San Lorenzo, Piazza di San Lorenzo, 9, 50123 Firenze, Italy)
 
 ### Day Two (Almost full day till **!!17:24pm!!**)
 
