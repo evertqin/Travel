@@ -1,3 +1,9 @@
+---
+title: 基本行程
+tags: []
+notebook: Italy
+---
+
 ## 基本行程
 
 28-30 milan (Via Giovanni Nicotera 9, Niguarda, Milan, 20161, Italy)
@@ -62,7 +68,8 @@
 2. 拱形三明治
 
 ### Transit
-	1. A single, one hour vaporetto trip in one direction costs €7.5, may consider 20,00 € - 1 day travelcard
+
+1. A single, one hour vaporetto trip in one direction costs €7.5, may consider 20,00 € - 1 day travelcard
 		- Where to buy : [Here](http://www.veneziaunica.it/en/e-commerce/services)
 
 
