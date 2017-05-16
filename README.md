@@ -15,9 +15,7 @@ notebook: Italy
 2-4 rome (Via Giuseppe Ferrari 2, Vaticano Prati, Rome, 00195, Italy)
 
 
-## Places to go in milan 
-
-[Route](https://www.google.com/maps/dir/Milan+Cathedral,+20122+Milano,+Italy/Piazza+del+Duomo,+Milano,+Italy/Quadrilatero+D'oro,+Milan,+Metropolitan+City+of+Milan,+Italy/Corso+Venezia,+Milano,+Italy/Corso+Vittorio+Emanuele+II,+Milano,+Italy/Palazzo+Reale,+Piazza+del+Duomo,+12,+20122+Milano,+Italy/@45.4653188,9.1951639,16z/data=!4m38!4m37!1m5!1m1!1s0x4786c6aee45f8ffb:0xfcdee99841af6521!2m2!1d9.1919429!2d45.4641892!1m5!1m1!1s0x4786c6ae939351df:0xd445dec2978d0e3f!2m2!1d9.1899885!2d45.4641776!1m5!1m1!1s0x4786c6ad1df87d7d:0xeb498cf8e3c07163!2m2!1d9.1953068!2d45.4684945!1m5!1m1!1s0x4786c6bbc46abb41:0xf3cc7c4d05d2a2d4!2m2!1d9.2010583!2d45.4706215!1m5!1m1!1s0x4786c6af901d15df:0xc70e9cedd88cc98d!2m2!1d9.1954604!2d45.4654252!1m5!1m1!1s0x4786c6aec57575a1:0xdd579e63ba086381!2m2!1d9.1911883!2d45.4631163!3e2)
+## Places to go in milan [General Direction](https://www.google.com/maps/dir/Milan+Cathedral,+20122+Milano,+Italy/Piazza+del+Duomo,+Milano,+Italy/Quadrilatero+D'oro,+Milan,+Metropolitan+City+of+Milan,+Italy/Corso+Venezia,+Milano,+Italy/Corso+Vittorio+Emanuele+II,+Milano,+Italy/Palazzo+Reale,+Piazza+del+Duomo,+12,+20122+Milano,+Italy/@45.4653188,9.1951639,16z/data=!4m38!4m37!1m5!1m1!1s0x4786c6aee45f8ffb:0xfcdee99841af6521!2m2!1d9.1919429!2d45.4641892!1m5!1m1!1s0x4786c6ae939351df:0xd445dec2978d0e3f!2m2!1d9.1899885!2d45.4641776!1m5!1m1!1s0x4786c6ad1df87d7d:0xeb498cf8e3c07163!2m2!1d9.1953068!2d45.4684945!1m5!1m1!1s0x4786c6bbc46abb41:0xf3cc7c4d05d2a2d4!2m2!1d9.2010583!2d45.4706215!1m5!1m1!1s0x4786c6af901d15df:0xc70e9cedd88cc98d!2m2!1d9.1954604!2d45.4654252!1m5!1m1!1s0x4786c6aec57575a1:0xdd579e63ba086381!2m2!1d9.1911883!2d45.4631163!3e2)
 1. Milan Cathedral (Duomo di Milano)
 	- The Galleria Vittorio Emanuele II (一条以拱形玻璃为顶棚的观光购物街)
 	- 面包夹肉,加热一下非常好吃，极力推荐，五欧一个。满满的都是肉，咬一口，就能忘记米兰大教堂的样子
