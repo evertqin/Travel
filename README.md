@@ -27,6 +27,10 @@ notebook: Italy
 
 ### Day Two (Half day till **!!!12:45pm!!**)
 
+### Places to eat
+
+	1. Piazza Guglielmo Oberdan, 3, 20129 Milano
+
 ## Places to go in Venice
 
 1. 圣马可广场(Piazza San Marco) 圣马可大教堂
